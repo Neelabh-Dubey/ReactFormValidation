@@ -1,0 +1,34 @@
+.label{
+    font-weight: 500;
+    font-size: larger;
+}
+
+input{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.input1{
+    margin-left: 20px;
+    width: 400px;
+}
+
+.input2{
+    margin-left: 14px;
+    width: 400px;
+}
+
+.btn{
+    font-size:20px;
+    font-weight: 600;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    width: 60%;
+    margin: 40px auto;
+    padding: 30px;
+}

@@ -1,0 +1,12 @@
+.card{
+    background-color: blueviolet;
+    width: 60%;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.span{
+    margin: 10px;
+    font-weight: bold;
+}
